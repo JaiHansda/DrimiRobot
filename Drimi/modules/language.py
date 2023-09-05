@@ -55,7 +55,7 @@ def set_lang(update: Update, _) -> None:
         [
             InlineKeyboardButton(
                 text="ʜᴇʟᴘ ᴜs ɪɴ ᴛʀᴀɴsʟᴀᴛɪᴏɴs",
-                url="https://github.com/Moca96/DrimiRobot",  # plz. Don't edit and change
+                url="https://telegram.me/Animes_Chats_Group",  # plz. Don't edit and change
             )
         ]
     )
